@@ -1,10 +1,10 @@
 name: 中韩
-author: iDvel
+author: Adrian
 version: 1.0.0
-description: 方案主体来源雾松拼音
-url: https://github.com/Beyond-Input-Method/rime-ice/tree/main
-createTime: 2023-03-30
-updateTime: 2023-03-30
+description: 雾松拼音 + 中韩 方案
+url: https://github.com/Beyond-Input-Method/zh-kor
+createTime: 2025-05-27
+updateTime: 2025-05-27
 # supportPlatforms:
 # preview: ""
 # dirPath: ""
@@ -20,4 +20,4 @@ use_theme:
   custom:
     # 自定义主题的名称，路径同上。
     "bim_t9": "themes/t9"
-    "hangul": "themes/Korean"
+    "hangul": "zh-kor/themes/Korean"
